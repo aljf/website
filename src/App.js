@@ -15,7 +15,7 @@ class App extends Component {
       <div id="homepg">
           <h1 id="hi"> Hi, my name is </h1>
           <h1 id="name"> George Thomas </h1>
-          <h1 id="nameDesc"> I'm an Aspiring Front End Developer </h1>
+          <h1 id="nameDesc"> I'm a Front End Developer </h1>
           <a href="#projectpg" ><button id="homebutton" type="button" className="btn"> See my Work </button></a>
         </div>
         </div>
