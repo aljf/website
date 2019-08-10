@@ -15,7 +15,6 @@ html,body
   width: 100vw;
 }
 #projectpg {
-  height: 120vh;
   width: 100vw;
 }
 #main {
@@ -24,9 +23,8 @@ html,body
 #homeimg {
  background-image: url('https://s3.us-east-2.amazonaws.com/githubsite/macbook');
  opacity: 0.3;
- background-size: 100vw;
+ background-size: cover;
  height: 120vh;
- width: 100vw;
 }
 #homecontainer {
   width:130vh;
@@ -225,10 +223,10 @@ h2 {
 }
 
 #biopic {
-  float: left;
+  float: right;
   margin-left: 33%;
-  margin-top: 5%;
-  width:260px; 
+  margin-right: 6%;
+  width:24%; 
   height: auto;
   border-radius: 80px;
 }
